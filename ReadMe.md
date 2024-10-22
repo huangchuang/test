@@ -21,3 +21,4 @@ tj01
 tj02
 tj03
 tj04
+echo nj01 

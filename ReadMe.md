@@ -9,3 +9,4 @@ bj03
 Squash examples:
 sz01
 sz02
+sz03

@@ -7,3 +7,5 @@ bj01
 bj02
 bj03
 Squash examples:
+gz01
+gz02

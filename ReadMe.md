@@ -10,3 +10,4 @@ Squash examples:
 sz01
 sz02
 sz03
+sz04
